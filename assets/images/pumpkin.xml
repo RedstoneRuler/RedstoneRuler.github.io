@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pumpkin.png">
+<SubTexture name="down left0000" x="0" y="165" width="157" height="162" frameX="-76" frameY="-64" frameWidth="320" frameHeight="320" />
+<SubTexture name="down right0000" x="0" y="0" width="158" height="165" frameX="-84" frameY="-60" frameWidth="320" frameHeight="320" />
+<SubTexture name="down0000" x="158" y="0" width="161" height="164" frameX="-80" frameY="-62" frameWidth="320" frameHeight="320" />
+<SubTexture name="left0000" x="475" y="0" width="159" height="158" frameX="-77" frameY="-66" frameWidth="320" frameHeight="320" />
+<SubTexture name="right0000" x="319" y="0" width="156" height="163" frameX="-84" frameY="-60" frameWidth="320" frameHeight="320" />
+<SubTexture name="up left0000" x="475" y="158" width="158" height="156" frameX="-80" frameY="-67" frameWidth="320" frameHeight="320" />
+<SubTexture name="up right0000" x="157" y="165" width="156" height="162" frameX="-83" frameY="-62" frameWidth="320" frameHeight="320" />
+<SubTexture name="up0000" x="313" y="165" width="153" height="159" frameX="-84" frameY="-65" frameWidth="320" frameHeight="320" />
+</TextureAtlas>
