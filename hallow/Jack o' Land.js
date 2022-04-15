@@ -4814,12 +4814,13 @@ PlayState.prototype = $extend(flixel_FlxState.prototype,{
 			this.updateMovement();
 		}
 		this.updateAnimations();
-		if(flixel_FlxG.keys.justPressed.get_ANY() && this.textOpen == true) {
+		var _this = flixel_FlxG.keys.justPressed;
+		if(_this.keyManager.checkStatusUnsafe(13,_this.status) && this.textOpen == true) {
 			this.textbox.set_visible(false);
 			this.textOpen = false;
 		}
 		var _this = flixel_FlxG.keys.justPressed;
-		if(_this.keyManager.checkStatusUnsafe(13,_this.status)) {
+		if(_this.keyManager.checkStatusUnsafe(32,_this.status)) {
 			this.textBox("Sample Text");
 		}
 	}
@@ -69093,7 +69094,7 @@ var lime_utils_AssetCache = function() {
 	this.audio = new haxe_ds_StringMap();
 	this.font = new haxe_ds_StringMap();
 	this.image = new haxe_ds_StringMap();
-	this.version = 532495;
+	this.version = 878363;
 };
 $hxClasses["lime.utils.AssetCache"] = lime_utils_AssetCache;
 lime_utils_AssetCache.__name__ = "lime.utils.AssetCache";
