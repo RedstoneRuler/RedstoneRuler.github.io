@@ -1,1 +1,0 @@
-lambent,rover,0xFFE6AE,4

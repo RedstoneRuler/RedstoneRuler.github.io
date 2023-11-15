@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="optimizationOption.png">
-<SubTexture name="d0000" x="0" y="0" width="218" height="187" frameX="0" frameY="0" frameWidth="218" frameHeight="187" />
-<SubTexture name="s0000" x="0" y="187" width="218" height="187" frameX="0" frameY="0" frameWidth="218" frameHeight="187" />
-<SubTexture name="a0000" x="0" y="374" width="218" height="187" frameX="0" frameY="0" frameWidth="218" frameHeight="187" />
-</TextureAtlas>

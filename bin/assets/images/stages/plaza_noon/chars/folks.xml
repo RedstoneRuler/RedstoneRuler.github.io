@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="folks.png">
-<SubTexture name="folks idle0000" x="0" y="0" width="569" height="164" frameX="-3" frameY="0" frameWidth="572" frameHeight="164" />
-<SubTexture name="folks idle0001" x="569" y="0" width="572" height="161" frameX="0" frameY="-3" frameWidth="572" frameHeight="164" />
-<SubTexture name="folks idle0002" x="569" y="161" width="569" height="161" frameX="-3" frameY="-3" frameWidth="572" frameHeight="164" />
-<SubTexture name="folks idle0003" x="0" y="164" width="569" height="163" frameX="-3" frameY="-1" frameWidth="572" frameHeight="164" />
-<SubTexture name="folks idle0004" x="0" y="0" width="569" height="164" frameX="-3" frameY="0" frameWidth="572" frameHeight="164" />
-</TextureAtlas>

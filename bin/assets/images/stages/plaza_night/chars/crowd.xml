@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="crowd.png">
-<SubTexture name="crowd idle0000" x="0" y="110" width="268" height="116" frameX="-5" frameY="0" frameWidth="279" frameHeight="116" />
-<SubTexture name="crowd idle0001" x="0" y="226" width="279" height="103" frameX="0" frameY="-13" frameWidth="279" frameHeight="116" />
-<SubTexture name="crowd idle0002" x="0" y="329" width="277" height="101" frameX="-1" frameY="-15" frameWidth="279" frameHeight="116" />
-<SubTexture name="crowd idle0003" x="0" y="0" width="277" height="110" frameX="-1" frameY="-6" frameWidth="279" frameHeight="116" />
-</TextureAtlas>

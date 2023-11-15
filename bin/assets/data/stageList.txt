@@ -1,5 +1,0 @@
-stage
-room
-plaza_noon
-plaza_evening
-plaza_night

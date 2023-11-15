@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="frame.png">
-<SubTexture name="deselected0000" x="0" y="0" width="75" height="160" frameX="0" frameY="0" frameWidth="75" frameHeight="160" />
-<SubTexture name="locked0000" x="75" y="0" width="75" height="160" frameX="0" frameY="0" frameWidth="75" frameHeight="160" />
-</TextureAtlas>

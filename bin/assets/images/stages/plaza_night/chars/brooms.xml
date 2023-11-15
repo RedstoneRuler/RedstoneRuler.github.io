@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="brooms.png">
-<SubTexture name="brooms idle0000" x="0" y="99" width="270" height="104" frameX="-1" frameY="-5" frameWidth="271" frameHeight="110" />
-<SubTexture name="brooms idle0001" x="0" y="203" width="270" height="107" frameX="-1" frameY="-3" frameWidth="271" frameHeight="110" />
-<SubTexture name="brooms idle0002" x="0" y="310" width="271" height="108" frameX="0" frameY="0" frameWidth="271" frameHeight="110" />
-<SubTexture name="brooms idle0003" x="0" y="418" width="271" height="106" frameX="0" frameY="-1" frameWidth="271" frameHeight="110" />
-<SubTexture name="brooms idle0004" x="0" y="0" width="269" height="99" frameX="-2" frameY="-7" frameWidth="271" frameHeight="110" />
-</TextureAtlas>

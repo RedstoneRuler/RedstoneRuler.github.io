@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="bf_taunts.png">
-<SubTexture name="huh0000" x="0" y="0" width="96" height="99" frameX="-27" frameY="-21" frameWidth="133" frameHeight="120" />
-<SubTexture name="huh0001" x="96" y="0" width="133" height="120" frameX="0" frameY="0" frameWidth="133" frameHeight="120" />
-<SubTexture name="huh0002" x="0" y="120" width="120" height="116" frameX="-13" frameY="-4" frameWidth="133" frameHeight="120" />
-<SubTexture name="okay0000" x="120" y="120" width="102" height="83" frameX="-21" frameY="-21" frameWidth="133" frameHeight="120" />
-<SubTexture name="okay0001" x="0" y="236" width="133" height="106" frameX="0" frameY="0" frameWidth="133" frameHeight="120" />
-<SubTexture name="okay0002" x="133" y="236" width="120" height="114" frameX="-13" frameY="-4" frameWidth="133" frameHeight="120" />
-</TextureAtlas>
