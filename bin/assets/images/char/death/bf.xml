@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.png">
+<SubTexture name="ow0000" x="0" y="0" width="73" height="95" frameX="-11" frameY="0" frameWidth="202" frameHeight="98" />
+<SubTexture name="ow0001" x="73" y="0" width="73" height="84" frameX="-11" frameY="-11" frameWidth="202" frameHeight="98" />
+<SubTexture name="ow0002" x="0" y="95" width="73" height="88" frameX="-11" frameY="-7" frameWidth="202" frameHeight="98" />
+<SubTexture name="ow0003" x="0" y="95" width="73" height="88" frameX="-11" frameY="-7" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0000" x="73" y="95" width="71" height="86" frameX="-4" frameY="-10" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0001" x="0" y="183" width="72" height="81" frameX="0" frameY="-14" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0002" x="72" y="183" width="74" height="79" frameX="0" frameY="-16" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0003" x="0" y="95" width="73" height="88" frameX="-11" frameY="-7" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0004" x="0" y="264" width="87" height="83" frameX="-15" frameY="-13" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0005" x="87" y="264" width="104" height="68" frameX="-49" frameY="-23" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0006" x="0" y="347" width="136" height="61" frameX="-56" frameY="-35" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0007" x="136" y="347" width="168" height="73" frameX="-34" frameY="-25" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0008" x="0" y="420" width="182" height="61" frameX="-13" frameY="-36" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0009" x="182" y="420" width="185" height="59" frameX="-10" frameY="-38" frameWidth="202" frameHeight="98" />
+<SubTexture name="fall0010" x="0" y="481" width="133" height="58" frameX="-62" frameY="-39" frameWidth="202" frameHeight="98" />
+</TextureAtlas>

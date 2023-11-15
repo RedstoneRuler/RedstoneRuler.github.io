@@ -1,0 +1,4 @@
+decaf,rover,0xFF9A4B,0
+toffee,claude,0xFE7FAD,1
+pop rocks,claude,0xFFE6AE,1
+glittersweet,claude,0x434FB7,1

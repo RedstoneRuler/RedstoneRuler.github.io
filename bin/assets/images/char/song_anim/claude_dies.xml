@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="claude_dies.png">
+<SubTexture name="ready?0000" x="0" y="0" width="54" height="133" frameX="-23" frameY="0" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0001" x="54" y="0" width="78" height="130" frameX="-15" frameY="-3" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0002" x="132" y="0" width="87" height="128" frameX="-7" frameY="-5" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0003" x="219" y="0" width="87" height="131" frameX="-6" frameY="-2" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0004" x="0" y="133" width="112" height="127" frameX="0" frameY="-6" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0005" x="112" y="133" width="76" height="127" frameX="-40" frameY="-6" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0006" x="188" y="133" width="81" height="96" frameX="-49" frameY="-37" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0007" x="269" y="133" width="86" height="99" frameX="-44" frameY="-34" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0008" x="0" y="260" width="84" height="103" frameX="-46" frameY="-30" frameWidth="139" frameHeight="133" />
+<SubTexture name="ready?0009" x="84" y="260" width="84" height="106" frameX="-46" frameY="-27" frameWidth="139" frameHeight="133" />
+<SubTexture name="ouch0000" x="168" y="260" width="92" height="99" frameX="-47" frameY="-34" frameWidth="139" frameHeight="133" />
+<SubTexture name="ouch0001" x="260" y="260" width="92" height="101" frameX="-47" frameY="-32" frameWidth="139" frameHeight="133" />
+<SubTexture name="ouch0002" x="0" y="366" width="92" height="106" frameX="-47" frameY="-27" frameWidth="139" frameHeight="133" />
+<SubTexture name="ball0000" x="92" y="366" width="29" height="27" frameX="-191" frameY="0" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0001" x="121" y="366" width="26" height="26" frameX="-158" frameY="-40" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0002" x="147" y="366" width="58" height="23" frameX="-121" frameY="-71" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0003" x="0" y="472" width="80" height="53" frameX="-106" frameY="-45" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0004" x="92" y="366" width="29" height="27" frameX="-83" frameY="-41" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0005" x="92" y="366" width="29" height="27" frameX="-63" frameY="-74" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0006" x="80" y="472" width="29" height="18" frameX="-24" frameY="-158" frameWidth="220" frameHeight="176" />
+<SubTexture name="ball0007" x="92" y="366" width="29" height="27" frameX="0" frameY="-124" frameWidth="220" frameHeight="176" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+music|week1_0
+claude|neutral|left|i am claude
+bf|neutral|right|i am boyfriend.
+claude|determined|left|how are you so sure
+bf|neutral|right|.
+bf|neutral|right|gonna change the music to break the tension here
+music|tutorial_0
+claude|shocked|left|how tf did you do that
+bf|neutral|right|music triggers
+claude|neutral|left|oh ok
