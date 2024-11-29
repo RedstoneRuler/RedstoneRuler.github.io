@@ -1,0 +1,10 @@
+file|death/bf
+
+anim|prefix|flinch|ow
+anim|prefix|fall|fall
+
+size|4
+
+flipX|true
+
+defaultAnim|flinch

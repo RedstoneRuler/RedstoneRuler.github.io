@@ -1,0 +1,8 @@
+file|gf
+
+anim|prefix|danceLeft|gf dance left
+anim|prefix|danceRight|gf dance right
+
+size|4
+
+defaultAnim|danceLeft

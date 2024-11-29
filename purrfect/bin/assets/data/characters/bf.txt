@@ -1,0 +1,19 @@
+file|bf
+
+anim|prefix|idle|bf idle
+
+anim|prefix|singLEFT|bf left0
+anim|prefix|singDOWN|bf down0
+anim|prefix|singUP|bf up0
+anim|prefix|singRIGHT|bf right0
+
+anim|prefix|singLEFTmiss|bf left miss
+anim|prefix|singDOWNmiss|bf down miss
+anim|prefix|singUPmiss|bf up miss
+anim|prefix|singRIGHTmiss|bf right miss
+
+offsets|bf
+
+flipX|true
+
+defaultAnim|idle

@@ -1,0 +1,18 @@
+file|claude
+
+anim|prefix|danceLeft|claude dance left
+anim|prefix|danceRight|claude dance right
+
+anim|prefix|singLEFT|claude right0
+anim|prefix|singDOWN|claude down0
+anim|prefix|singUP|claude up0
+anim|prefix|singRIGHT|claude left0
+
+anim|prefix|singLEFTmiss|claude right miss
+anim|prefix|singDOWNmiss|claude down miss
+anim|prefix|singUPmiss|claude up miss
+anim|prefix|singRIGHTmiss|claude left miss
+
+offsets|claude-playable
+
+defaultAnim|danceLeft

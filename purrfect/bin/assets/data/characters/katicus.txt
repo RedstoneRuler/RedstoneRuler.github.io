@@ -1,0 +1,12 @@
+file|katicus
+
+anim|indices|idle|katicus idle|1:2:3:4
+
+anim|prefix|singLEFT|katicus left
+anim|prefix|singDOWN|katicus down
+anim|prefix|singUP|katicus up
+anim|prefix|singRIGHT|katicus right
+
+offsets|katicus
+
+defaultAnim|idle

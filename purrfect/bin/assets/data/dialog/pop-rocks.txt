@@ -1,0 +1,14 @@
+music|week1_0
+claude|frustrated|left|*Pant* *Pant*\nOkay, that was... that wasn't the best I can do! Just... gimme another chance!
+bf|eager|right|Okay I gotta admit, you kinda ain't too shabby with a mic!
+bf|shrug|right|Still a nameless nobody, but maybe a nobody that I could take a little more seriously!
+claude|curious|left|O-OH!\nActually, speaking of nameless... is BF your real name?
+bf|neutral|right|Uhhh... yeah?
+claude|thinking|left|Cause like, I dunno!\nSome people refer to you as something like Keith or, y'know, Benjamin?
+bf|shrug|right|Okay well all I can say about dat is...
+rover|neutral|null|(GF) It's complicated!
+bf|neutral|right|Yeah, what she said.\nLook, just call me BF to save yourself the trouble.
+claude|happy|left|Okay!
+claude|determined|left|Anyways, this time, I'm not gonna fumble like the last round!
+claude|determined|left|Let's do this!
+bf|shrug|right|Whatevah.

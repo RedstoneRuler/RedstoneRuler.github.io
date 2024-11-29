@@ -1,0 +1,13 @@
+file|rover
+
+anim|prefix|danceLeft|rover dance left
+anim|prefix|danceRight|rover dance right
+
+anim|prefix|singLEFT|rover left
+anim|prefix|singDOWN|rover down
+anim|prefix|singUP|rover up
+anim|prefix|singRIGHT|rover rght
+
+size|4
+
+defaultAnim|danceLeft

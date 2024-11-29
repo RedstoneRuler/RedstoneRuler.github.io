@@ -1,0 +1,13 @@
+music|week1_0
+claude|frustrated|left|*Cough*\nHooh geez... that took a lot out of me! How can people handle you in these sing-offs?!
+bf|shrug|right|Do I really need to say it?\nThey just had the misfortunes of not being me!
+bf|neutral|right|But, look...
+bf|neutral|right|This has been cool and all but frankly, I gotta ask... Why are you doing this again?
+bf|neutral|right|I mean, I get dat you wanna challenge me n' all that shizz, but this is kinda comin' outta nowhere.
+claude|happy|left|*Pant* 'Cause I go where the wind blows... and live my life to the fullest! This is probably the most fun I've ever had, y'know?!
+bf|neutral|right|Huh.
+bf|shrug|right|Y'know what, I respect that. You're not like the others who have beef with me for the sake of having beef.
+bf|eager|right|Heh, aight, well, you down for one last go? It's gettin' late.
+claude|happy|left|AM I!
+claude|determined|left|THIS time, I'm gonna pull out all the stops! You better take me super seriously!
+bf|shrug|right|Riiiight right.

@@ -1,0 +1,35 @@
+music|week1_0
+claude|shocked|left|WOAH HEY!
+claude|shocked|left|It's you!
+claude|shocked|left|I mean- I didn't actually THINK you would come and- wow, this is actually pretty crazy, and-
+claude|curious|left|(Calm down, calm down!)\n(You gotta look confident! Assertive!)
+claude|determined|left|AHEM! Okay BF! Now that you're here, let's duke it out!
+bf|neutral|right|Beep, bop.
+claude|confused|left|Ahahaha... what?
+bf|neutral|right|Boop, beep.
+claude|confused|left|Umm.
+claude|thinking|left|(OKAY CLEARLY we have a language barrier here...)
+claude|frustrated|left|(UGH! I should have asked Rover... he would know something like this!)
+claude|thinking|left|(...maybe if I speak in his language, I'll get it!)
+claude|thinking|left|Uhhhh... bleep bloop!
+bf|neutral|right|Beep boop bop bop.
+claude|happy|left|Debadeeboop!
+rover|neutral|none|(GF) Okay hun, you can stop messing around with him. 
+claude|confused|left|Wait what-
+bf|shrug|right|HAH! Yeah brah I'm just playin' with ya.
+claude|shocked|left|OH!
+claude|curious|left|Ahahaha... that was awkward.\nOKAY um, let's start over!
+claude|neutral|left|Uhh SO! You came here to finally get down to business right?!
+bf|neutral|right|I'm gonna be real with you, if it weren't for my GF...
+bf|shrug|right|...I would've just ignored the invitation entirely.
+bf|shrug|right|I dunno! Somethin' about taking the time and effort to meet a nobody just rubs me the wrong way!
+claude|shocked|left|WHAAAT HEY! I'm no nobody!
+claude|determined|left|And I'll show you just what I'm made of once we sing it out!
+bf|shrug|right|Uh huh, as if I nevah heard dat before.
+bf|neutral|right|Buuuut I got nothin' bettah to do, so I could go for some pastime.
+claude|shocked|left|(WOW, this is actually happening... I GOTTA tell my friends about this!)
+claude|neutral|left|(But this is a one time opportunity so I gotta focus and do my best!)
+claude|determined|left|OKAY! It's on!
+bf|eager|right|Alright, but I'm warning ya...
+bf|eager|right|If ya really wanna save yourself the embarrassment, now's your last chance to get outta Dodge!
+claude|determined|left|AS IF! Gimme your best shot!

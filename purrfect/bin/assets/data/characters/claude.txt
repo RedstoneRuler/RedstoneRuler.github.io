@@ -1,0 +1,13 @@
+file|claude
+
+anim|prefix|danceLeft|claude dance left
+anim|prefix|danceRight|claude dance right
+
+anim|prefix|singLEFT|claude left0
+anim|prefix|singDOWN|claude down0
+anim|prefix|singUP|claude up0
+anim|prefix|singRIGHT|claude right0
+
+offsets|claude
+
+defaultAnim|danceLeft

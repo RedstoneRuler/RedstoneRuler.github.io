@@ -1,0 +1,12 @@
+decaf|rover|0xFF9A4B|0
+toffee|claude|0xFE7FAD|1
+pop rocks|claude|0xFFE6AE|1
+glittersweet|claude|0x434FB7|1
+purrfection|katicus|0xFFFFFF|2
+purrglary|katicus|0xFFFFFF|2
+meow or never|katicus|0xFFFFFF|2
+lambent|rover|0xFFFFFF|4
+babaru 2|claude|0xFFFFFF|4
+glee|rover|0xFFFFFF|4
+star-cross|rover|0xFFFFFF|4
+hot cocoa|claude|0xFFFFFF|4

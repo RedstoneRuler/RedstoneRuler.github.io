@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="katicus.png">
+<SubTexture name="katicus down0000" x="2260" y="704" width="412" height="344" frameX="-48" frameY="-188" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus down0001" x="2260" y="1384" width="412" height="328" frameX="-56" frameY="-204" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus down0002" x="2260" y="1048" width="384" height="336" frameX="-76" frameY="-196" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus down0003" x="2260" y="0" width="416" height="352" frameX="-68" frameY="-180" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus down0004" x="2260" y="352" width="396" height="352" frameX="-68" frameY="-180" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus left0000" x="1072" y="0" width="368" height="464" frameX="-16" frameY="-60" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus left0001" x="404" y="1048" width="404" height="440" frameX="-4" frameY="-84" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus left0002" x="0" y="1048" width="404" height="448" frameX="0" frameY="-76" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus left0003" x="1440" y="0" width="400" height="464" frameX="-16" frameY="-60" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus left0004" x="1440" y="464" width="384" height="464" frameX="-32" frameY="-60" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus up0000" x="0" y="0" width="368" height="532" frameX="-92" frameY="0" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus up0001" x="368" y="0" width="360" height="532" frameX="-120" frameY="0" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus up0002" x="344" y="532" width="372" height="484" frameX="-92" frameY="-48" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus up0003" x="728" y="0" width="344" height="516" frameX="-108" frameY="-16" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus up0004" x="0" y="532" width="344" height="516" frameX="-108" frameY="-16" frameWidth="484" frameHeight="532" />
+<SubTexture name="katicus idle0000" x="1276" y="1048" width="408" height="428" frameX="-24" frameY="-16" frameWidth="480" frameHeight="460" />
+<SubTexture name="katicus idle0001" x="1840" y="428" width="412" height="408" frameX="-20" frameY="-36" frameWidth="480" frameHeight="460" />
+<SubTexture name="katicus idle0002" x="1744" y="1496" width="436" height="400" frameX="0" frameY="-44" frameWidth="480" frameHeight="460" />
+<SubTexture name="katicus idle0003" x="464" y="1496" width="424" height="412" frameX="-8" frameY="-32" frameWidth="480" frameHeight="460" />
+<SubTexture name="katicus idle0004" x="1840" y="0" width="420" height="428" frameX="-12" frameY="-16" frameWidth="480" frameHeight="460" />
+<SubTexture name="katicus right0000" x="888" y="1496" width="432" height="412" frameX="-112" frameY="-120" frameWidth="560" frameHeight="532" />
+<SubTexture name="katicus right0001" x="808" y="1048" width="468" height="432" frameX="-76" frameY="-100" frameWidth="560" frameHeight="532" />
+<SubTexture name="katicus right0002" x="0" y="1496" width="464" height="420" frameX="-96" frameY="-112" frameWidth="560" frameHeight="532" />
+<SubTexture name="katicus right0003" x="1320" y="1496" width="424" height="404" frameX="-132" frameY="-128" frameWidth="560" frameHeight="532" />
+<SubTexture name="katicus right0004" x="1840" y="836" width="420" height="404" frameX="-136" frameY="-128" frameWidth="560" frameHeight="532" />
+</TextureAtlas>
